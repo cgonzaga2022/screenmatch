@@ -1,4 +1,4 @@
-package br.local.screematch.versao_00;
+package br.local.screematch.parte_01.versao_00;
 
 public class Main {
     public static void main(String[] args) {

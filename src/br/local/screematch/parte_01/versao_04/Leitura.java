@@ -1,4 +1,4 @@
-package br.local.screematch.versao_04;
+package br.local.screematch.parte_01.versao_04;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

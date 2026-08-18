@@ -1,7 +1,6 @@
-package br.local.screematch.versao_02;
+package br.local.screematch.parte_01.versao_01;
 
 public class Main {
-
     public static void main(String[] args) {
         System.out.println("Esse á o Screen Match");
         System.out.println("FIlme: Top Gun: Maverick");
@@ -21,8 +20,6 @@ public class Main {
         Media de nota do filme %.2f
         """.formatted(media);
         System.out.println("Sinopse: " + sinopse);
-
-        int classificacao = (int) media / 2;
-        System.out.println("A classificação: " + classificacao);
     }
+
 }

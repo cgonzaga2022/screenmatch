@@ -1,4 +1,4 @@
-package br.local.screematch.versao_02;
+package br.local.screematch.parte_01.versao_02;
 
 public class Condicional {
 

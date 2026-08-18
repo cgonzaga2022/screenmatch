@@ -1,4 +1,4 @@
-package br.local.screematch.versao_05;
+package br.local.screematch.parte_01.versao_05;
 
 import java.util.Scanner;
 
